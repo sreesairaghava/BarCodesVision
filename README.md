@@ -1,2 +1,2 @@
 # DEMO
-[!BarCodesVision](QRScan.gif)
+![BarCodesVision](QRScan.gif)
